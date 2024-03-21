@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1088310240735",
+    "project_id": "todo-list-e2145",
+    "storage_bucket": "todo-list-e2145.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1088310240735:android:a1b08df3a755fa308e906a",
+        "android_client_info": {
+          "package_name": "br.com.henrique.todolist"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8NGZ6NycPVcOk-TsDpi6WFXywBM5N56o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
